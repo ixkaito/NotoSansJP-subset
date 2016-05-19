@@ -4,3 +4,7 @@
 - [`webfonts`](https://github.com/ixkaito/NotoSansCJKjp-webfonts/tree/master/webfonts): subset font files for web
 - [`characters.txt`](https://github.com/ixkaito/NotoSansCJKjp-webfonts/blob/master/characters.txt): characters available in the web fonts
 - [`demo`](https://github.com/ixkaito/NotoSansCJKjp-webfonts/tree/master/demo): demo site source
+
+## Demo
+
+https://ixkaito.github.io/NotoSansCJKjp-webfonts/
