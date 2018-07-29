@@ -1,5 +1,7 @@
 # Noto Sans CJK JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSansCJKjp-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSansCJKjp-subset/blob/master/LICENSE)
 
+(Noto Serif CJK JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
+
 - [`src`](https://github.com/ixkaito/NotoSansCJKjp-subset/tree/master/src): オリジナルフォントデータ
 - [`subset`](https://github.com/ixkaito/NotoSansCJKjp-subset/tree/master/subset): ウェブ用サブセットフォント (.woff, .otf, .eot)
 - [`characters.txt`](https://github.com/ixkaito/NotoSansCJKjp-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
@@ -7,7 +9,7 @@
 
 ## ファイルサイズの比較
 
-|| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | NotoSansCJKjp-subset (OTF / WOFF) |
+|| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | ixkaito/NotoSansCJKjp-subset (OTF / WOFF) |
 |---|---:|---:|---:|
 | Thin         | 15.2 MB | 4.2 MB | **733 KB / 537 KB** |
 | Light        | 16.2 MB | 4.4 MB | **729 KB / 562 KB** |
