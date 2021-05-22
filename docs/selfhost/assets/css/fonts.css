@@ -7,3 +7,13 @@
 	     url("../fonts/NotoSansCJKjp-Regular.woff") format("woff"),
 	     url("../fonts/NotoSansCJKjp-Regular.otf") format("opentype");
 }
+
+@font-face {
+	font-family: "Noto Sans CJK JP";
+	font-style: normal;
+	font-weight: 700;
+	src: url("../fonts/NotoSansCJKjp-Bold.eot");
+	src: url("../fonts/NotoSansCJKjp-Bold.eot?#iefix") format("embedded-opentype"),
+	     url("../fonts/NotoSansCJKjp-Bold.woff") format("woff"),
+	     url("../fonts/NotoSansCJKjp-Bold.otf") format("opentype");
+}
