@@ -1,0 +1,9 @@
+@font-face {
+	font-family: "Noto Sans CJK JP";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/NotoSansCJKjp-Regular.eot");
+	src: url("../fonts/NotoSansCJKjp-Regular.eot?#iefix") format("embedded-opentype"),
+	     url("../fonts/NotoSansCJKjp-Regular.woff") format("woff"),
+	     url("../fonts/NotoSansCJKjp-Regular.otf") format("opentype");
+}

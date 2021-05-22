@@ -1,0 +1,85 @@
+html{
+	box-sizing:border-box
+}
+
+*,
+*::after,
+*::before{
+	box-sizing:inherit
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	font-family: "Noto Sans JP", sans-serif;
+}
+
+a {
+	color: #4a89dc;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h2 {
+	color: #ccc;
+}
+
+hr {
+	border: 0;
+	border-top: 1px solid #ccc;
+}
+
+header {
+	text-align: center;
+	padding: 0 20px;
+}
+
+footer {
+	background: #eee;
+	font-size: 14px;
+	margin-top: 5em;
+	overflow: hidden;
+	padding: 0 20px;
+	text-align: center;
+}
+
+.container {
+	margin: auto;
+	max-width: 960px;
+	padding: 0 20px;
+}
+
+.noto-mono {
+	font-family: "Noto Sans Mono CJK JP", sans-serif;
+}
+
+.thin {
+	font-weight: 100;
+}
+
+.light {
+	font-weight: 200;
+}
+
+.demilight {
+	font-weight: 300;
+}
+
+.regular {
+	font-weight: 400;
+}
+
+.medium {
+	font-weight: 500;
+}
+
+.bold {
+	font-weight: 700;
+}
+
+.black {
+	font-weight: 900;
+}
