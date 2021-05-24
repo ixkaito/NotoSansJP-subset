@@ -2,7 +2,7 @@
 
 (Noto Serif JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
 
-- [`subset`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset/): すべてのフォント情報を保持したサブセットフォント (.woff2, .woff, .otf)
+- [`subset`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset/): カーニングなどのフォント情報を保持したサブセットフォント (.woff2, .woff, .otf)
 - [`subset-min`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset-min/): すべてのフォント情報を削除した最小サイズのサブセットフォント (.woff2, .woff, .otf)
 - [`src`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/src): オリジナルフォントデータ
 - [`characters.txt`](https://github.com/ixkaito/NotoSansJP-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
