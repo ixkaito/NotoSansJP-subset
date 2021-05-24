@@ -1,4 +1,4 @@
-# Noto Sans CJK JP サブセット ![License](https://img.shields.io/github/license/ixkaito/NotoSansJP-subset?style=for-the-badge)
+# Noto Sans JP サブセット ![License](https://img.shields.io/github/license/ixkaito/NotoSansJP-subset?style=for-the-badge)
 
 (Noto Serif JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
 
