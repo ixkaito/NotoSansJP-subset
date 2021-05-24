@@ -1,6 +1,6 @@
 # Noto Sans JP サブセット ![License](https://img.shields.io/github/license/ixkaito/NotoSansJP-subset?style=for-the-badge)
 
-(Noto Serif JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
+(Noto Serif JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifJP-subset))
 
 - [`subset`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset/): カーニングなどのフォント情報を保持したサブセットフォント (.woff2, .woff, .otf)
 - [`subset-min`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset-min/): すべてのフォント情報を削除した最小サイズのサブセットフォント (.woff2, .woff, .otf)
