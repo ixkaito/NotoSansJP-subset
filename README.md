@@ -6,7 +6,7 @@
 - [`subset-min`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset-min/): すべてのフォント情報を削除した最小サイズのサブセットフォント (.woff2, .woff, .otf)
 - [`src`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/src): オリジナルフォントデータ
 - [`characters.txt`](https://github.com/ixkaito/NotoSansJP-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
-- [`docs`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/demo): デモのソースファイル
+- [`docs`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/docs): デモのソースファイル
 
 ## ファイルサイズの比較
 
