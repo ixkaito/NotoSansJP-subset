@@ -1,6 +1,6 @@
 # Noto Sans CJK JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSansJP-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSansJP-subset/blob/master/LICENSE)
 
-(Noto Serif CJK JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
+(Noto Serif JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
 
 - [`subset`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset/): すべてのフォント情報を保持したサブセットフォント (.woff2, .woff, .otf)
 - [`subset-min`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset-min/): すべてのフォント情報を削除した最小サイズのサブセットフォント (.woff2, .woff, .otf)
