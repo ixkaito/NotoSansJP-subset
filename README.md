@@ -1,25 +1,26 @@
-# Noto Sans CJK JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSansCJKjp-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSansCJKjp-subset/blob/master/LICENSE)
+# Noto Sans CJK JP サブセット [![license](https://img.shields.io/github/license/ixkaito/NotoSansJP-subset.svg?maxAge=2592000)](https://github.com/ixkaito/NotoSansJP-subset/blob/master/LICENSE)
 
 (Noto Serif CJK JP サブセットは[こちら](https://github.com/ixkaito/NotoSerifCJKjp-subset))
 
-- [`src`](https://github.com/ixkaito/NotoSansCJKjp-subset/tree/master/src): オリジナルフォントデータ
-- [`subset`](https://github.com/ixkaito/NotoSansCJKjp-subset/tree/master/subset): ウェブ用サブセットフォント (.woff, .otf, .eot)
-- [`characters.txt`](https://github.com/ixkaito/NotoSansCJKjp-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
-- [`docs`](https://github.com/ixkaito/NotoSansCJKjp-subset/tree/master/demo): デモのソースファイル
+- [`subset`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset/): すべてのフォント情報を保持したサブセットフォント (.woff2, .woff, .otf)
+- [`subset-min`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/subset-min/): すべてのフォント情報を削除した最小サイズのサブセットフォント (.woff2, .woff, .otf)
+- [`src`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/src): オリジナルフォントデータ
+- [`characters.txt`](https://github.com/ixkaito/NotoSansJP-subset/blob/master/characters.txt): サブセットフォントで利用可能文字の一覧
+- [`docs`](https://github.com/ixkaito/NotoSansJP-subset/tree/master/demo): デモのソースファイル
 
 ## ファイルサイズの比較
 
-|| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | ixkaito/NotoSansCJKjp-subset (OTF / WOFF) |
-|---|---:|---:|---:|
-| Thin         | 15.2 MB | 4.2 MB | **733 KB / 537 KB** |
-| Light        | 16.2 MB | 4.4 MB | **729 KB / 562 KB** |
-| Demi Light   | 16.4 MB | 4.5 MB | **725 KB / 567 KB** |
-| Regular      | 16.4 MB | 4.5 MB | **722 KB / 568 KB** |
-| Medium       | 16.5 MB | 4.5 MB | **721 KB / 571 KB** |
-| Bold         | 17 MB   | 4.6 MB | **727 KB / 576 KB** |
-| Black        | 17.3 MB | 4.8 MB | **733 KB / 566 KB** |
-| Mono Regular | 16.4 MB | なし    | **726 KB / 577 KB** |
-| Mono Bold    | 17 MB   | なし    | **723 KB / 570 KB** |
+|| オリジナル | [Google 版サブセット](https://www.google.com/get/noto/help/cjk/) | subset (OTF / WOFF / WOFF 2.0) | subset-min (OTF / WOFF / WOFF 2.0) |
+|---|---:|---:|---:|---:|
+| Thin         | 15.2 MB | 4.2 MB | **2.1 MB / 1.6 MB / 1.4 MB** | **780 KB / 565 KB / 491 KB** |
+| Light        | 16.2 MB | 4.4 MB | **2.2 MB / 1.8 MB / 1.5 MB** | **776 KB / 591 KB / 517 KB** |
+| Demi Light   | 16.4 MB | 4.5 MB | **2.2 MB / 1.8 MB / 1.6 MB** | **772 KB / 596 KB / 524 KB** |
+| Regular      | 16.4 MB | 4.5 MB | **2.2 MB / 1.8 MB / 1.6 MB** | **770 KB / 599 KB / 525 KB** |
+| Medium       | 16.5 MB | 4.5 MB | **2.2 MB / 1.8 MB / 1.6 MB** | **768 KB / 600 KB / 529 KB** |
+| Bold         | 17 MB   | 4.6 MB | **2.2 MB / 1.8 MB / 1.6 MB** | **774 KB / 605 KB / 534 KB** |
+| Black        | 17.3 MB | 4.8 MB | **2.3 MB / 1.8 MB / 1.6 MB** | **782 KB / 596 KB / 525 KB** |
+| Mono Regular | 16.4 MB | なし    | **2.2 MB / 1.8 MB / 1.6 MB** | **770 KB / 599 KB / 527 KB** |
+| Mono Bold    | 17 MB   | なし    | **2.2 MB / 1.8 MB / 1.6 MB** | **774 KB / 606 KB / 534 KB** |
 
 ## 利用可能文字
 
@@ -53,4 +54,4 @@
 
 ## デモ
 
-https://ixkaito.github.io/NotoSansCJKjp-subset/
+https://ixkaito.github.io/NotoSansJP-subset/
