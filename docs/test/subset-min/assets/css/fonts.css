@@ -60,21 +60,3 @@
 	     url("../fonts/NotoSansJP-Black.woff") format("woff"),
 	     url("../fonts/NotoSansJP-Black.otf") format("opentype");
 }
-
-@font-face {
-	font-family: "Noto Sans Mono JP";
-	font-style: normal;
-	font-weight: 400;
-	src: url("../fonts/NotoSansMonoJP-Regular.woff2") format("woff2"),
-	     url("../fonts/NotoSansMonoJP-Regular.woff") format("woff"),
-	     url("../fonts/NotoSansMonoJP-Regular.otf") format("opentype");
-}
-
-@font-face {
-	font-family: "Noto Sans Mono JP";
-	font-style: normal;
-	font-weight: 700;
-	src: url("../fonts/NotoSansMonoJP-Bold.woff2") format("woff2"),
-	     url("../fonts/NotoSansMonoJP-Bold.woff") format("woff"),
-	     url("../fonts/NotoSansMonoJP-Bold.otf") format("opentype");
-}
